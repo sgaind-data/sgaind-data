@@ -1,82 +1,98 @@
-# 💫 About Me:
-Hi, I'm Sarika Gaind 👋<br><br>I'm an AI & Data Analytics professional with a Master's in Advanced Data Analytics (AI Concentration) and an MBA in Business Analytics from the University of North Texas.<br><br>I enjoy building intelligent, data-driven solutions that combine analytics, machine learning, and Generative AI to solve real-world problems. My work spans AI applications, predictive modeling, business intelligence, data engineering, and cloud-based AI solutions, with experience developing interactive dashboards, optimizing data pipelines, and building LLM-powered applications.<br><br>This GitHub showcases my projects in AI, data science, machine learning, analytics, and software development as I continue learning, building, and contributing to impactful technologies.<br>
+# Sarika Gaind
 
+### Generative AI Engineer · AI/ML Engineer · Data Engineer
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sarika-Gaind) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gaind.sarikasg@gmail.com) 
+Building evaluated, observable LLM systems and the data pipelines behind them: RAG services, multi-agent workflows, fine-tuned models, and cloud analytics, each with tests, tracing and real numbers.
 
-# 💻 Tech Stack:
+M.S. Advanced Data Analytics (AI concentration) + MBA in Business Analytics, University of North Texas.
 
-### Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarika-gaind)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaind.sarikasg@gmail.com)
+<!-- Add when ready: [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://sgaind-data.github.io) -->
 
-### Cloud & AI
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Dialogflow CX](https://img.shields.io/badge/Dialogflow_CX-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75FF?style=for-the-badge&logo=google-gemini&logoColor=white)
+---
 
-### Data Engineering & Databases
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+## 💼 Currently
 
-### AI / Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+- **Generative AI Engineer @ Think Round** — LLM evaluation frameworks (LLM-as-a-judge), RAG pipelines, and LangGraph multi-agent systems with guardrails
+- **Generative AI Associate, Data Annotation @ Innodata** — evaluating LLM outputs and creating SFT and RLHF training data for frontier AI clients
+- **Open to:** Generative AI Engineer, ML Engineer, Data Engineer and Data/BI Analyst roles · US, open to relocation
 
-### Analytics & BI
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![QlikView](https://img.shields.io/badge/QlikView-009845?style=for-the-badge&logo=qlik&logoColor=white)
+---
 
-### Development & DevOps
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+## 🚀 Featured projects
 
-### Frameworks & Tools
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23E23237.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+| Project | What it shows | Results | Links |
+|---|---|---|---|
+| **MetricMedic: RAG API, Tracing & Evals** | LangChain RAG served as a FastAPI API in Docker, Langfuse tracing, RAGAS evals, MCP tool for AI agents, CI quality gates | 0.746 faithfulness · 83.8% hit@3 · 49 tests in CI | [Repo](https://github.com/sgaind-data/metricmedic-chatbot) |
+| **Airbnb Review Quality** | Fine-tuned DistilBERT, spaCy NER, int8 ONNX in-browser demo, FastAPI service with drift monitoring | Macro F1 0.608 → 0.704 · 4× smaller model · 179 req/s | [Live demo](https://huggingface.co/spaces/sgaind-dataai/airbnb-review-quality) |
+| **Delivery Performance Analytics on AWS** | S3 → Redshift Serverless, dbt star schema, Airflow, DynamoDB, statistics, Tableau dashboard | 98,666 orders · 90 dbt tests · $0 AWS cost | [Repo](https://github.com/sgaind-data/delivery-performance-analytics-aws) · [Dashboard](https://public.tableau.com/app/profile/sarika.gaind6780/viz/AWSDeliveryAnalysis/DeliveryPerformance) |
+| **AgentOps Lakehouse** | Azure Data Factory + Databricks medallion lakehouse, Isolation Forest in MLflow, LLM judge, CI/CD with Asset Bundles | 0 null costs in gold · false alarms halved · judge pass rate 78% → 89% | [Repo](https://github.com/sgaind-data/agentops-lakehouse) |
 
-# 📊 GitHub Stats:
+<details>
+<summary><b>More projects</b></summary>
+
+- **Speech Emotion Recognition Using LSTM** — deep learning on audio features; basis of a first-author publication (Apple Academic Press, 2023)
+- **RAG Healthcare Q&A System** — RAG on Vertex AI and Gemini over 100+ medical documents
+- **Board Game Triage AI System** — multi-agent gatekeeper/supervisor design with human-in-the-loop escalation
+- **AI Notification Router** — multimodal NLP routing with MiniLM embeddings, hybrid retrieval, Whisper and OCR
+- **SignFlow-AI** — real-time sign recognition with MediaPipe and OpenCV (real-world accuracy 81% → 95%)
+- **NYC Restaurant Inspection ML** — Gradient Boosting on 289K inspection records
+
+</details>
+
+---
+
+## 🛠️ Tech stack
+
+**GenAI & LLMs**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![RAGAS](https://img.shields.io/badge/RAGAS-6E40C9?style=flat-square)
+![Langfuse](https://img.shields.io/badge/Langfuse-0A0A0A?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
+
+**Machine learning**
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+**Data engineering & cloud**
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Amazon Redshift](https://img.shields.io/badge/Amazon_Redshift-8C4FFF?style=flat-square)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
+**MLOps, APIs & BI**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+---
+
+## 📊 GitHub stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=sgaind-data&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
-  <img width="49%" src="https://streak-stats.demolab.com/?user=sgaind-data&theme=dark&hide_border=false"/>
+  <img height="160" src="https://github-readme-stats.shion.dev/api?username=sgaind-data&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.shion.dev/api/top-langs/?username=sgaind-data&theme=dark&layout=compact" />
 </p>
-
-<p align="center">
-  <img width="38%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=sgaind-data&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-</p>
-
-👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=sgaind-data&style=flat-square&color=blue)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
